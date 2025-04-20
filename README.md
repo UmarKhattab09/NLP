@@ -5,7 +5,7 @@
 
 
 
-### Text PreProcessing using NLTK
+### Text PreProcessing using NLTK PART 1 
 
 ### Tokenization 
 
@@ -28,3 +28,10 @@ Taking a word and Reducing it to its Word Stem
 
 ### 3. Stop Words :
 - StopWords are use to minimize the paragraph, it removes word that doesn't add any potential meaning to the paragraph
+
+
+
+  <--------------------------------------------------------------------------------------------------------------------->
+
+### Text Preprocessing using NLTK PART 2 
+
