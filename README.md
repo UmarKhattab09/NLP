@@ -1,7 +1,7 @@
 # NLP
 # ROADMAP 
 
-<img src="images/roadmap.png">
+<img src="Images/roadmap.png">
 
 
 
