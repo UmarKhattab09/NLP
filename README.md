@@ -9,6 +9,10 @@
 
 ### Tokenization 
 
+
+<img src = "Images/tokenization.png">
+
+
 ### 1. Stemming
 Taking a word and Reducing it to its Word Stem
 [eating,eaten,ate] ---> eat
