@@ -6,6 +6,10 @@
 
 
 ### Text PreProcessing using NLTK PART 1 
+- Tokenization
+- Stemming (Porter,RegexpStemmer, Snowball Stemmer)
+- Lemmatizer
+- Stop Words
 
 ### Tokenization 
 
@@ -34,4 +38,7 @@ Taking a word and Reducing it to its Word Stem
   <--------------------------------------------------------------------------------------------------------------------->
 
 ### Text Preprocessing using NLTK PART 2 
+- One Hot Encoding
+- Bag Of Words
+- TDIDF ( Term Frequency- Inverse Document Frequency )
 
