@@ -23,4 +23,5 @@ Taking a word and Reducing it to its Word Stem
 ### 2. Word Net Lemmatizer (Lemmatization)
 - Great Accuracy compared to stem but slower.
 
-### 3. 
+### 3. Stop Words :
+- StopWords are use to minimize the paragraph, it removes word that doesn't add any potential meaning to the paragraph
