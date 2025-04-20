@@ -8,7 +8,7 @@
 ### Text PreProcessing using NLTK
 
 ### Tokenization 
-- Paragraph ---> Sentences ----> Words & Unique Words
+<img src="Images/tokenization.png">
   
 ### 1. Stemming
 Taking a word and Reducing it to its Word Stem
@@ -20,5 +20,7 @@ Taking a word and Reducing it to its Word Stem
 #### SnowBall stemmer : Better than Porter Stemmer. 
 
 
-### 2. Word Net Lemmatizer
+### 2. Word Net Lemmatizer (Lemmatization)
 - Great Accuracy compared to stem but slower.
+
+### 3. 
