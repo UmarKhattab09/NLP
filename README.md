@@ -9,7 +9,7 @@
 
 ### Tokenization 
 <img src="Images/tokenization.png">
-<img src="Images/tokenization.png">
+<img src="Images/tokenization.png" height="573">
   
 ### 1. Stemming
 Taking a word and Reducing it to its Word Stem
