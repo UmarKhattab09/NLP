@@ -1,4 +1,9 @@
 # NLP
+# ROADMAP 
+
+<img src="images/roadmap.png"
+
+
 
 ### Text PreProcessing using NLTK
 
