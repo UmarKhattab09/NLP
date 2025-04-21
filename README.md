@@ -45,5 +45,5 @@ Taking a word and Reducing it to its Word Stem
 #### 1. One Hot Encoding:
 - The Data is divided into unique Vocabulary.
 
-<img src="Images/ohe.png" >
+<img src="Images/ohe.png" > <img src="Images/unique.png" >
 
