@@ -42,3 +42,7 @@ Taking a word and Reducing it to its Word Stem
 - Bag Of Words
 - TDIDF ( Term Frequency- Inverse Document Frequency )
 
+#### 1. One Hot Encoding:
+- The Data is divided into unique Vocabulary.
+  <img src="Images/ohe.png" >
+
