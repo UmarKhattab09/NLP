@@ -47,3 +47,9 @@ Taking a word and Reducing it to its Word Stem
 
 <img src="Images/ohe.png" > <img src="Images/unique.png" >
 
+
+- Only Problem is that if the data is small, such as `Pizza is Amazing`. It will cause OOV(OUT OF VOCABULARY)
+- Also, Semantic Meaning is not captured
+
+#### 2. Bag Of Words:
+
