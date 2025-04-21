@@ -11,26 +11,26 @@
 - Lemmatizer
 - Stop Words
 
-### Tokenization 
+#### 1. Tokenization 
 
 
 <img src = "Images/tokenization.png">
 
 
-### 1. Stemming
+#### 2. Stemming
 Taking a word and Reducing it to its Word Stem
 [eating,eaten,ate] ---> eat
 [going,goes,gone] ----> go
 
-#### Porter Stemmer : Automatic, Fast but low accuracy
-#### Regexp Stemmer : Initliaze the suffix we need to clean/remove from the word. Not Automatic
-#### SnowBall stemmer : Better than Porter Stemmer. 
+##### Porter Stemmer : Automatic, Fast but low accuracy
+##### Regexp Stemmer : Initliaze the suffix we need to clean/remove from the word. Not Automatic
+##### SnowBall stemmer : Better than Porter Stemmer. 
 
 
-### 2. Word Net Lemmatizer (Lemmatization)
+#### 2. Word Net Lemmatizer (Lemmatization)
 - Great Accuracy compared to stem but slower.
 
-### 3. Stop Words :
+#### 3. Stop Words :
 - StopWords are use to minimize the paragraph, it removes word that doesn't add any potential meaning to the paragraph
 
 
