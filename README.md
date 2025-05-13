@@ -1,5 +1,47 @@
 # NLP
-# ROADMAP 
+# 🧠 Natural Language Processing (NLP) Roadmap
+
+
+---
+
+<img src="Images/roadmap.png" alt="NLP Roadmap" width="600"/>
+
+---
+
+## 📌 Part 1: Text Preprocessing using NLTK
+
+### 🔹 Techniques Covered
+- Tokenization
+- Stemming (Porter, Regexp, Snowball)
+- Lemmatization (WordNet)
+- Stop Words Removal
+
+---
+
+### 1. 🔸 Tokenization
+> Breaking down sentences into individual tokens (words or phrases).
+
+<img src="Images/tokenization.png" alt="Tokenization" width="500"/>
+
+---
+
+### 2. 🔸 Stemming
+> Reducing words to their root form.
+
+Examples:
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="Images/roadmap.png">
 
